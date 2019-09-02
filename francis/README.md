@@ -1,10 +1,10 @@
-Name:
+Name: Francis Niko Cruz
 
-Estimated Graduation: 
+Estimated Graduation: May 2021
 
-Preferred Language: 
+Preferred Language: Java
 
 
-Did you submit a resume?:
+Did you submit a resume?: Yes
 
-Have you interviewed before?:
+Have you interviewed before?: No
