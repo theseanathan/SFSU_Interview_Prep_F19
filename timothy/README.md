@@ -1,10 +1,10 @@
-Name:
+Name: Timothy Chan
 
-Estimated Graduation: 
+Estimated Graduation: May 2020 
 
-Preferred Language: 
+Preferred Language: Java
 
 
-Did you submit a resume?:
+Did you submit a resume?: Nope, don't remember
 
-Have you interviewed before?:
+Have you interviewed before?: Yup
