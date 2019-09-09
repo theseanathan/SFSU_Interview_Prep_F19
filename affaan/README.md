@@ -1,10 +1,10 @@
-Name:
+Name: Affaan Ghazzali
 
-Estimated Graduation: 
+Estimated Graduation: June 2021
 
-Preferred Language: 
+Preferred Language: Java
 
 
-Did you submit a resume?:
+Did you submit a resume?: Yes
 
-Have you interviewed before?:
+Have you interviewed before?: Yes
