@@ -1,10 +1,10 @@
-Name:
+Name: Jainam Shah 
 
-Estimated Graduation: 
+Estimated Graduation: 2022
 
-Preferred Language: 
+Preferred Language: Python
 
 
-Did you submit a resume?:
+Did you submit a resume?:Yes
 
-Have you interviewed before?:
+Have you interviewed before?:No
